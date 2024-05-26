@@ -28,7 +28,8 @@ div {
     align-items: center;
     padding: 50px;
     color: white;
-    background-image: url(/images/network-2402637_1280.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2023/04/29/07/54/ai-generated-7957989_1280.jpg);
+    /* background-image: url(/images/network-2402637_1280.jpg); */
 }
 .header h1 {
     text-align: center;
